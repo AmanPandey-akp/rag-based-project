@@ -1,0 +1,9 @@
+chromadb>=0.5.5,<2
+rank-bm25>=0.2.2
+pypdf>=4.0.0
+requests>=2.31.0
+streamlit>=1.35.0
+pytest>=8.0.0
+
+# No API key and no paid service. The LLM runs locally through Ollama (free, open source):
+#   https://ollama.com   then:  ollama pull llama3.2:3b

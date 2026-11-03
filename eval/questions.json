@@ -1,0 +1,21 @@
+[
+  {"q": "What does the A in ACID stand for and how is it implemented?", "source": "dbms.md"},
+  {"q": "Why can a table have only one clustered index?", "source": "dbms.md"},
+  {"q": "Which isolation level prevents phantom reads?", "source": "dbms.md"},
+  {"q": "What is BCNF and how is it stricter than 3NF?", "source": "dbms.md"},
+  {"q": "What are the four Coffman conditions?", "source": "operating_systems.md"},
+  {"q": "How does Round Robin scheduling choose the time quantum trade-off?", "source": "operating_systems.md"},
+  {"q": "What is Belady's anomaly?", "source": "operating_systems.md"},
+  {"q": "Why is a TLB used in paging?", "source": "operating_systems.md"},
+  {"q": "Explain the TCP three-way handshake", "source": "computer_networks.md"},
+  {"q": "What happens to the congestion window after a packet loss timeout?", "source": "computer_networks.md"},
+  {"q": "How many usable hosts are in a /24 network?", "source": "computer_networks.md"},
+  {"q": "Which routing protocol runs Dijkstra on the full topology?", "source": "computer_networks.md"},
+  {"q": "When does quick sort degrade to O(n^2)?", "source": "data_structures.md"},
+  {"q": "How does open addressing handle collisions?", "source": "data_structures.md"},
+  {"q": "Which algorithm handles negative edge weights in shortest paths?", "source": "data_structures.md"},
+  {"q": "What is the difference between memoization and tabulation?", "source": "data_structures.md"},
+  {"q": "Who won the FIFA World Cup in 2018?", "source": null},
+  {"q": "Give me a recipe for chocolate cake", "source": null},
+  {"q": "What is the capital of France?", "source": null}
+]
